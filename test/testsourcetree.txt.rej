@@ -1,0 +1,9 @@
+diff a/test/testsourcetree.txt b/test/testsourcetree.txt	(rejected hunks)
+@@ -1 +0,4 @@
+-123
+\ No newline at end of file
++000
++
++
++456
+\ No newline at end of file
